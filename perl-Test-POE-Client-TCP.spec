@@ -1,5 +1,5 @@
 %define module   Test-POE-Client-TCP
-%define version    0.08
+%define version    0.10
 %define release    %mkrel 1
 
 Name:       perl-%{module}
