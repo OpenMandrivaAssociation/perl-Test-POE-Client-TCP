@@ -1,2 +1,4 @@
+removed_sources:
+  Test-POE-Client-TCP-1.10.tar.gz: ae0dd730eae09ca30638ac0b7cfbdfb634843023
 sources:
-  "Test-POE-Client-TCP-1.10.tar.gz": ae0dd730eae09ca30638ac0b7cfbdfb634843023
+  Test-POE-Client-TCP-1.12.tar.gz: f906e7dbb9f4cfbc4f21efba9b56ac9fe62a6cf0
