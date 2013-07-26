@@ -1,15 +1,15 @@
 %define upstream_name    Test-POE-Client-TCP
-%define upstream_version 1.10
+%define upstream_version 1.12
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	2
+Version:	%perl_convert_version 1.12
+Release:	1
 
 Summary:	A POE Component providing TCP client services for test cases
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
-Source0:	http://www.cpan.org/modules/by-module/Test/%{upstream_name}-%{upstream_version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Test/Test-POE-Client-TCP-1.12.tar.gz
 
 BuildRequires:	perl-devel
 BuildRequires:	perl(ExtUtils::MakeMaker)
@@ -94,3 +94,4 @@ make test
 
 * Sat May 24 2008 Guillaume Rousse <guillomovitch@mandriva.org> 0.04-1mdv2009.0
 - first mdv release
+
