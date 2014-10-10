@@ -3,7 +3,7 @@
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version 1.12
-Release:	1
+Release:	2
 
 Summary:	A POE Component providing TCP client services for test cases
 License:	GPL+ or Artistic
