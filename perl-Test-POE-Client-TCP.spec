@@ -8,7 +8,7 @@ Release:	3
 Summary:	A POE Component providing TCP client services for test cases
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Test/Test-POE-Client-TCP-1.12.tar.gz
 
 BuildRequires:	perl-devel
